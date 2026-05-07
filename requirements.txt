@@ -1,0 +1,6 @@
+langchain
+langchain-core
+langchain-community
+sentence-transformers
+langchain-groq
+langgraph
