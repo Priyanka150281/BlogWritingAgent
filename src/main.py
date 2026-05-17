@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from blog_writing_agent import run
+from src.blog_writing_agent import run
 
 app = FastAPI()
 
